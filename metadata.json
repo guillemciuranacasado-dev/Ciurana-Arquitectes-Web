@@ -1,0 +1,6 @@
+{
+  "name": "Ciurana Arquitectes & Constructors",
+  "description": "Pàgina web professional de Ciurana Arquitectes & Constructors. Mostra de la trajectòria en projectes d'arquitectura i rehabilitació de patrimoni emblemàtic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
